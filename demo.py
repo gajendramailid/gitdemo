@@ -1,9 +1,8 @@
 print("hello inuron world")
 x = 10
 y = 20
-print("hello")
-print("tcode1")
-print("222")
-print("333")
-ptint("444")
-print("555")
+print("this os from github")
+print("this is the latest iteration to the code1")
+print("this is the latest 345672")
+print("this is lien 10,  lets us create a cibfluiect to learfn")
+ptint("this is one more conflict added")
