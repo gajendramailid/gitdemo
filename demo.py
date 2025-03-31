@@ -1,8 +1,13 @@
-print("hello inuron world")
-x = 10
-y = 20
-print("this os from github")
-print("this is the latest iteration to the code1")
-print("this is the latest 345672")
-print("this is lien 10,  lets us create a cibfluiect to learfn")
-ptint("this is one more conflict added")
+1
+2
+3
+4
+
+
+
+
+
+
+
+
+# condtion for megre conflict is that the changes should occuer in the same file and same line
